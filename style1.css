@@ -1,0 +1,76 @@
+*{
+  
+}
+
+body{
+  background-image: url(BG.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+    margin: 0;
+  padding: 0;
+}
+img{
+  margin-left: 42%;
+  margin-top: 5%;   
+}
+.logo{
+    margin: inherit;
+    margin-bottom: -14%;
+    margin-left: 2%;
+    width: 279px;
+}
+
+.btn1{
+    flex: 1;
+    padding: 25px 50px;
+    border-radius: 1001px;
+    border: 13px solid #f3c623;
+    font-family: 'Almarai', sans-serif;
+    font-size: 50px;
+    text-shadow: 0 3px 5px rgb(0 0 0 / 25%);
+    white-space: nowrap;
+    color: #fff;
+    cursor: pointer;
+    background: transparent;
+    background-repeat: repeat-x;
+    background-position: 0c-100%;
+    transition: .5s linear;
+    position: absolute;
+    left: 2.8%;
+    top: 75%;
+}
+.btn1:hover{
+  background: #f3c623
+}
+
+.n1{
+    position: absolute;
+    left: 8.8%;
+    top: 30%;
+    font-size: 75px;
+    font-family: 'Almarai', sans-serif;
+    color: azure;
+}
+.n2{
+    position: absolute;
+    left: 8.8%;
+    top: 40%;
+    font-size: 75px;
+    font-family: 'Almarai', sans-serif;
+    color: azure;    
+    
+
+}
+.n3{
+    position: absolute;
+    left: 8.8%;
+    top: 50%;
+    font-size: 75px;
+    font-family: 'Almarai', sans-serif;
+    color: azure;    
+    
+
+}
+
+
+
